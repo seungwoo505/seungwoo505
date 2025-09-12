@@ -5,7 +5,7 @@
 현대적인 웹 기술로 사용자 경험을 향상시키는 개발을 하고 있습니다.
 
 <div align="center">
-  <img alt="ARONA" width="500" src="https://github.com/user-attachments/assets/befd741c-7bc9-469d-91c3-4b75f99162ae">
+  <img alt="ARONA" width="500" src="https://github.com/user-attachments/assets/ea120f08-98cd-47da-9f77-7b88908d0c93">
 </div>
 
 ## Tech Stack
