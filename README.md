@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-## �� About Me
+## About Me
 안녕하세요! 웹 개발자 **이승우**입니다.
 현대적인 웹 기술로 사용자 경험을 향상시키는 개발을 하고 있습니다.
 
-<img alt="Coding" width="500" src="https://github.com/user-attachments/assets/befd741c-7bc9-469d-91c3-4b75f99162ae">
+<div align="center">
+  <img alt="ARONA" width="500" src="https://github.com/user-attachments/assets/befd741c-7bc9-469d-91c3-4b75f99162ae">
+</div>
 
-## �� Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
