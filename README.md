@@ -4,7 +4,7 @@
 안녕하세요! 웹 개발자 **이승우**입니다.
 현대적인 웹 기술로 사용자 경험을 향상시키는 개발을 하고 있습니다.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" width="500" src="https://github.com/user-attachments/assets/befd741c-7bc9-469d-91c3-4b75f99162ae">
 
 ## �� Tech Stack
 
