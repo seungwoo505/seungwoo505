@@ -18,8 +18,7 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-MariaDB-orange?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![MariaDB](https://img.shields.io/badge/MySQL-MariaDB-orange?style=for-the-badge&logo=MariaDB)
 
 ## 🏆 GitHub Stats
 
